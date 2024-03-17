@@ -2,7 +2,7 @@
   {
     "id": 10902,
     "Key": "r16",
-    "enUS": "",
+    "enUS": "Io Rune",
     "zhTW": "符文：埃歐",
     "deDE": "[fs]Io-Rune",
     "esES": "Runa Io",
@@ -36,7 +36,7 @@
   {
     "id": 10904,
     "Key": "r13",
-    "enUS": "",
+    "enUS": "Shael Rune",
     "zhTW": "符文：夏",
     "deDE": "[fs]Shael-Rune",
     "esES": "Runa Shael",
@@ -410,7 +410,7 @@
   {
     "id": 20459,
     "Key": "r14",
-    "enUS": "",
+    "enUS": "Dol Rune",
     "zhTW": "符文：多爾",
     "deDE": "[fs]Dol-Rune",
     "esES": "Runa Dol",
@@ -529,7 +529,7 @@
   {
     "id": 20467,
     "Key": "r06",
-    "enUS": "",
+    "enUS": "Ith Rune",
     "zhTW": "符文：伊司",
     "deDE": "[fs]Ith-Rune",
     "esES": "Runa Ith",
@@ -546,7 +546,7 @@
   {
     "id": 20468,
     "Key": "r05",
-    "enUS": "",
+    "enUS": "Eth Rune",
     "zhTW": "符文：愛斯",
     "deDE": "[fs]Eth-Rune",
     "esES": "Runa Eth",
@@ -597,7 +597,7 @@
   {
     "id": 20471,
     "Key": "r02",
-    "enUS": "",
+    "enUS": "Eld Rune",
     "zhTW": "符文：艾德",
     "deDE": "[fs]Eld-Rune",
     "esES": "Runa Eld",
@@ -614,7 +614,7 @@
   {
     "id": 20472,
     "Key": "r01",
-    "enUS": "",
+    "enUS": "El Rune",
     "zhTW": "符文：艾爾",
     "deDE": "[fs]El-Rune",
     "esES": "Runa El",
